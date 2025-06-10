@@ -58,8 +58,8 @@ I'm a passionate **Fullstack Developer** with a background in **Computer Science
 
 Feel free to reach out — I'm open to freelance work, collaboration, or just a tech chat:
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: sastraharapangulo04@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sastra-harapan-gulo/
+- 🌐 Portfolio: 
 
 Thanks for visiting! 🚀
